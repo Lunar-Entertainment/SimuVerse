@@ -1,0 +1,27 @@
+{
+  "name": "simuverse-physics-engine",
+  "version": "1.0.0",
+  "description": "High-Performance Multi-Physics Simulation Software Suite (N-Body, SPH Fluid, Soft-Body Cloth, Wave Optics FDTD, Turing Reaction-Diffusion)",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^6.2.0"
+  },
+  "keywords": [
+    "physics-simulation",
+    "n-body",
+    "fluid-dynamics",
+    "sph",
+    "soft-body",
+    "barnes-hut",
+    "wave-equation",
+    "reaction-diffusion",
+    "high-performance"
+  ],
+  "author": "Joar",
+  "license": "MIT"
+}
